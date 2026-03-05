@@ -28,7 +28,9 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Easy/MakeUpperCase.swift,
+				Easy/SimpleMultiplication.swift,
 				Easy/SumNumbers.swift,
+				Easy/YouOnlyNeedOne.swift,
 			);
 			target = EF5E022A2F593EB400A496B7 /* CodeWarsTests */;
 		};
