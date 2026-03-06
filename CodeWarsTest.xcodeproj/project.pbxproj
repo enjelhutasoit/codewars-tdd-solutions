@@ -32,6 +32,7 @@
 				Easy/Clock.swift,
 				Easy/Greeter.swift,
 				Easy/MakeUpperCase.swift,
+				Easy/RemoveFirstAndLast.swift,
 				Easy/SimpleMultiplication.swift,
 				Easy/SumNumbers.swift,
 				Easy/YouOnlyNeedOne.swift,
