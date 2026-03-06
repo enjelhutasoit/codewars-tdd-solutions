@@ -29,6 +29,7 @@
 			membershipExceptions = (
 				Easy/BoolToWord.swift,
 				Easy/CenturyCalculator.swift,
+				Easy/Clock.swift,
 				Easy/MakeUpperCase.swift,
 				Easy/SimpleMultiplication.swift,
 				Easy/SumNumbers.swift,
