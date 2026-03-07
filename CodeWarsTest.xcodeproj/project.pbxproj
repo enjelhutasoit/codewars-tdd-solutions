@@ -27,6 +27,7 @@
 		EF5E023B2F5944D600A496B7 /* Exceptions for "CodeWarsTest" folder in "CodeWarsTests" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				"5-6 kyu/DuplicateCounter.swift",
 				Easy/BoolToWord.swift,
 				Easy/CenturyCalculator.swift,
 				Easy/Clock.swift,
@@ -39,6 +40,13 @@
 				Easy/YouOnlyNeedOne.swift,
 			);
 			target = EF5E022A2F593EB400A496B7 /* CodeWarsTests */;
+		};
+		EF69A8932F5C7706006FE934 /* Exceptions for "CodeWarsTests" folder in "CodeWarsTest" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"5-6 kyu Test/DuplicateCounterTests.swift",
+			);
+			target = EF5E021C2F593E9000A496B7 /* CodeWarsTest */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
