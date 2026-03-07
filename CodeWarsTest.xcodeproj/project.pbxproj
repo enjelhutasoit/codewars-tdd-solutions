@@ -28,6 +28,7 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"5-6 kyu/DuplicateCounter.swift",
+				"5-6 kyu/MultiplesOf3Or5.swift",
 				Easy/BoolToWord.swift,
 				Easy/CenturyCalculator.swift,
 				Easy/Clock.swift,
@@ -61,6 +62,9 @@
 		};
 		EF5E022C2F593EB400A496B7 /* CodeWarsTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				EF69A8932F5C7706006FE934 /* Exceptions for "CodeWarsTests" folder in "CodeWarsTest" target */,
+			);
 			path = CodeWarsTests;
 			sourceTree = "<group>";
 		};
