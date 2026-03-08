@@ -27,6 +27,7 @@
 		EF5E023B2F5944D600A496B7 /* Exceptions for "CodeWarsTest" folder in "CodeWarsTests" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				"5-6 kyu/BitCounter.swift",
 				"5-6 kyu/DuplicateCounter.swift",
 				"5-6 kyu/MultiplesOf3Or5.swift",
 				Easy/BoolToWord.swift,
